@@ -37,7 +37,7 @@ More than just a piece of software, this project embodies the spirit of collabor
 
 ## 📥 Installation
 
-- Clone the Repository: git clone https://github.com/YourUsername/RealTimeSignLanguageRecognition.git
+- Clone the Repository: git clone https://github.com/YourUsername/SignLanguagePython.git
 
 - Navigate to the Project Directory: cd RealTimeSignLanguageRecognition
 
