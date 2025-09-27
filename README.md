@@ -1,4 +1,4 @@
-# Real-Time Sign Language Alphabet Recognition System
+# SignFlow | Real-Time Sign Language Alphabet Recognition System
 
 ## Overview
 This project is a real-time system for recognizing English Sign Language letters. Developed at Doğuş University by the Software Engineering team, it uses machine learning and computer vision to help hearing-impaired individuals communicate more easily and support sign language learning.
@@ -32,8 +32,8 @@ The system recognizes letters with over 90% accuracy and handles dynamic gesture
 
 ## Installation
 ```bash
-git clone https://github.com/YourUsername/SignLanguagePython.git
-cd RealTimeSignLanguageRecognition
+git clone https://github.com/YourUsername/SignFlow.git
+cd SignFlow
 pip install -r requirements.txt
 python main.py
 ```
@@ -49,3 +49,6 @@ python main.py
 - Cemre Dağ
 - Emir Ekrem Kaya
 - Hatice Uçar
+
+## Note
+The project name is intended for future research references and was not used during the original research project.
