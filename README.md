@@ -5,6 +5,20 @@ This project is a real-time system for recognizing English Sign Language letters
 
 The system recognizes letters with over 90% accuracy and handles dynamic gestures like "J" and "Z". It is designed to be simple, reliable, and accessible to users of all ages.
 
+## Project Structure
+SignFlow/  
+├── Data/                   - Dataset  
+├── gui.py                  - GUI application  
+├── egitim.py               - Training script  
+├── import os.py            - Helper script  
+├── test.py                 - Test script  
+├── test_model.py           - Model testing  
+├── train_model.py          - Model training  
+├── requirements.txt           
+├── README.md                   
+├── .gitignore               
+
+
 ## Key Features
 - **Real-Time Recognition:** Detects hand gestures instantly using a camera.  
 - **High Accuracy:** Recognition accuracy exceeds 90%.  
